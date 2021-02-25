@@ -1,0 +1,11 @@
+.highlight_element {
+	
+}
+
+.customDivDesign, .customDivDesignOdd, .customDivDesignEven, .centercontainerDesign, .flexDesign, .inlinegroupDesign, .simplecollapsibleDesign {
+	background-color	: #E8E8E8;
+	border				: 2px solid inherit;
+	margin				: 25px 10px !important;
+	min-height			: 40px;
+	padding				: 10px !important;
+}

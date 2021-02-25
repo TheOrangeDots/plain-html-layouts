@@ -1,0 +1,55 @@
+Manifest-Version: 1.0
+Bundle-Name: Plain HTML Layouts
+Bundle-SymbolicName: plainhtml
+Package-Type: Web-Layout
+Bundle-Version: 1.0.0
+CSS-DesignLibs: plainhtml/design.css
+
+Name: article/article.spec
+Web-Layout: True
+
+Name: header/header.spec
+Web-Layout: True
+
+Name: table/table.spec
+Web-Layout: True
+
+Name: tbody/tbody.spec
+Web-Layout: True
+
+Name: aside/aside.spec
+Web-Layout: True
+
+Name: footer/footer.spec
+Web-Layout: True
+
+Name: tr/tr.spec
+Web-Layout: True
+
+Name: div/div.spec
+Web-Layout: True
+
+Name: nav/nav.spec
+Web-Layout: True
+
+Name: th/th.spec
+Web-Layout: True
+
+Name: span/span.spec
+Web-Layout: True
+
+Name: main/main.spec
+Web-Layout: True
+
+Name: hgroup/hgroup.spec
+Web-Layout: True
+
+Name: td/td.spec
+Web-Layout: True
+
+Name: section/section.spec
+Web-Layout: True
+
+Name: thead/thead.spec
+Web-Layout: True
+
